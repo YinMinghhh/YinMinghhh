@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Contact me: yin.ming@zju.edu.cn
+Contact me: ming.yin@zju.edu.cn
 
 <!--
 **YinMinghhh/YinMInghhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
